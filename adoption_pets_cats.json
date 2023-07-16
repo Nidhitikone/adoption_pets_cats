@@ -1,0 +1,29 @@
+{
+    "cats": [
+      {
+        "id": 1,
+        "name": "Lola",
+        "age": "3 Years",
+        "breed":"American Curl",
+        "sex":"Female",
+        "image":"https://th.bing.com/th/id/OIP.WJD5t8W7Ks_xQcOxY0IU8AHaE7?pid=ImgDet&rs=1",
+        "description":"Meet Lola. ",
+        "vaccinated":"Yes",
+        "spayed/neutered":"Yes"
+      },
+      {
+        "id": 2,
+        "name": "Zoe",
+        
+        "age": "2 Years",
+        "breed":"Scottish Fold",
+        "sex":"Male",
+        "image":"https://critterfacts.com/wp-content/uploads/2020/08/An-orange-Scottish-Fold-kitten.jpg",
+        "description":"Meet zoe. ",
+        "vaccinated":"Yes",
+        "spayed/nutered":"No"
+      }
+    ]
+    
+
+}
